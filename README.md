@@ -9,7 +9,7 @@ Dependency-free CSV parser optimized for the make.fun speed bounty
 ## Run it
 
 ```sh
-{run}
+node main.ts
 ```
 
 ---
